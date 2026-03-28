@@ -16,7 +16,7 @@
 Para mostrar o fluxo no GitHub, grave um GIF curto (ex.: login → dashboard → novo chamado) e salve como **`docs/demo.gif`**. Depois descomente a linha abixo ou adicione:
 
 ```html
-<p align="center"><img src="docs/demo.gif" alt="IndusDesk" width="820" /></p>
+<p align="center"><img src="docs/funcionamento.gif" alt="IndusDesk" width="820" /></p>
 ```
 
 Ferramentas úteis: [ScreenToGif](https://www.screentogif.com/) (Windows), ShareX, OBS.
